@@ -400,7 +400,7 @@ def get_random_color():
               None
 
     Returns:
-           A tuple containinf 3 float type values between 0 and 1, which represents a color.
+           A tuple containing 3 float type values between 0 and 1, which represents a color.
     """
     return (random.random(), random.random(), random.random())
 
